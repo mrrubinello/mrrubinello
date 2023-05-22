@@ -2,9 +2,7 @@
 
 my name is ruben
 
-## Screenshots
-### Caption command
-![alt](https://imgflip.com/i/5u9gtb)
+![](https://imgflip.com/i/5u9gtb)
 
 ### Meme command (Works on GIFs as well)
 ![Discord bot usage screenshot](https://i.imgur.com/S64V5CK.png)
