@@ -1,8 +1,11 @@
 # bio
 
-my name is ruben
+my name is ruben!
 
-![](https://imgflip.com/i/5u9gtb)
+[Uploading 5u9gtb.jpg…]()
+
+
+![https://imgflip.com/i/5u9gtb]
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/ousstheboss)
 
