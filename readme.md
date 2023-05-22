@@ -2,12 +2,7 @@
 
 my name is ruben!
 
-[Uploading 5u9gtb.jpg…]()
-
-
-![https://imgflip.com/i/5u9gtb]
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/ousstheboss)
+![bornatayoungage](https://github.com/mrrubinello/mrrubinello/assets/35063133/2753f510-5fda-4e39-bc8b-1fcf3cee94a3)
 
 - 29 years old
 
